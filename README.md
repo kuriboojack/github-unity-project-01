@@ -9,12 +9,17 @@ Almost all paid version is not good enough, the scripts is messy, and the assets
 
 
 For the starter, i manage to develop:
+(Using tutorial by https://www.youtube.com/@CodeMonkeyUnity)
+
 
 1.player controller using cinemachine 
 2.applying toggling over shoulder camera
 3.Basic shooting projectile scripts
 
-Anyone who want to help me create this template please continue using this examples:
+
+
+Anyone who want to help me create this template please continue using this examples but keep simple,nice,and sweet so it will be easy to be duplicated and applied to any project:
+
 4.health system,hunger,thirst,tiredness,etc
 5.enemy system, stealth cutscene, kill cutscene, boss enemy, etc
 6.Crafting system, safe house system, etc
@@ -24,11 +29,11 @@ Anyone who want to help me create this template please continue using this examp
 10. etc...
 
 All asset used in this project must be only from unity official free templates(for standardization purpose).
-Do not use asset that is not provided by unity officially 
+Do not use asset that is not provided by unity officially. 
 Everything is focused on creating gameplay mechanics only.
 
 Thank you and if this one running well, anyone can use this template to ACTUALLY kickstart their third person shooter game
-and don't have to deal with confusing tutorials and useless/messy template out there.
+and don't have to deal with confusing tutorials and useless/messy template out there. You can also may use it for your commercial projects and dont forget to gives me credits by mentioning my names.
 I will publicise this and then upload some video footage on my youtube channel:
 https://www.youtube.com/@kuriboojack6051
 
